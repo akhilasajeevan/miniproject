@@ -1,0 +1,14 @@
+p{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: blue;
+display: block;
+/* position: relative; */
+
+}
+#foothead{
+
+margin-top: 80px;
+display: inline-block;
+
+}

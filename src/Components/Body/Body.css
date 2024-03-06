@@ -1,0 +1,29 @@
+#shoping{
+height: 700px;
+width: 700px;
+
+}
+.img{
+height: 600px;
+width: fit-content;
+display: flex;
+float: right;
+margin-top: 0px;
+position: relative;
+/* display: inline-block; */
+}
+#heading{
+    position: absolute;
+margin-left: 40px;
+margin-top: 0px;
+color: green;
+font-style: oblique;
+/* border: 2px solid red;
+border-radius: 90px; */
+font-size:30px ;
+}
+#subhead{
+color:orangered;
+font-style: italic;
+margin-top: 100px;
+}
